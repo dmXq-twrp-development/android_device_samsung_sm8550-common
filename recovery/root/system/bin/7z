@@ -1,2 +1,0 @@
-#!/data/data/com.termux/files/usr/bin/sh
-"/data/data/com.termux/files/usr/lib/p7zip/7z" "$@"
